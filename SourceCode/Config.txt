@@ -1,0 +1,5 @@
+Listen 6789
+DocumentRoot /home/accts/sa646/Documents/cpsc433/doc-root/
+ThreadPoolSize 50
+CacheSize 100000
+IncompleteTimeout 40
